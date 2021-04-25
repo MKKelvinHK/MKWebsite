@@ -1,4 +1,5 @@
 # MKWebsite
-MK Own Website
-`Don't Steal it`
+
+Contributed this in the 2020 GitHub Archive Program don't know why and how.
+
 https://mkkelvinhk.github.io/MKWebsite/
